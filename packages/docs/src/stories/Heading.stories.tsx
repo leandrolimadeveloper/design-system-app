@@ -4,8 +4,9 @@ import { Heading, HeadingProps } from '@ignite-ui/react'
 export default {
   title: 'Typography/Heading',
   component: Heading,
+  tags: ['autodocs'],
   args: {
-    children: 'Custom title',
+    children: 'Custom title (h2)',
   },
 } as Meta<HeadingProps>
 
