@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "deploy-storybook": "storybook-to-ghpages",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
@@ -30,6 +31,7 @@
     "@storybook/blocks": "^8.3.0",
     "@storybook/react": "^8.3.0",
     "@storybook/react-vite": "^8.3.0",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/test": "^8.3.0",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
