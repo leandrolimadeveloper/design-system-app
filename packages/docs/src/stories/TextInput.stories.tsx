@@ -27,7 +27,7 @@ export const Primary: StoryObj<TextInputProps> = {
 }
 
 export const Disabled: StoryObj<TextInputProps> = {
-  args: {
+  args: { 
     disabled: true,
   },
 }
