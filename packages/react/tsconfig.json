@@ -1,4 +1,4 @@
 {
-  "extends": "@leandrosl-ignite-ui/ts-config/react.json",
+  "extends": "@leandrosl-ui/ts-config/react.json",
   "include": ["src"]
 }
