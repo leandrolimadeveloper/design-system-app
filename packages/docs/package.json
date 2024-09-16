@@ -13,8 +13,8 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@leandrosl-ui/react": "*",
+    "@leandrosl-ui/tokens": "*",
     "@storybook/addon-a11y": "^8.3.0",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",

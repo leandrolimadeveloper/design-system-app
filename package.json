@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/global",
+  "name": "@leandrosl-ui/global",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -9,6 +9,7 @@
     "build": "turbo run build"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.27.8",
     "turbo": "^2.1.2"
   },
   "packageManager": "npm@10.2.3"
